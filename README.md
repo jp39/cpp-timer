@@ -1,2 +1,2 @@
 # cpp-timer
-Cross-platform header-only interval timer library
+Cross-platform C++11 header-only interval timer library
